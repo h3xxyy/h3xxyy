@@ -1,24 +1,44 @@
-<h1 align="center">Hi 👋, I'm H3xxy</h1>
-<h3 align="center">i code stuff cuh</h3>
+<!-- HEADER SECTION -->
+<p align="right"><code>LOC: ATHENS, GR</code> // <code>STATUS: ACTIVE</code></p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=H3xxy;++;Self-taught+Python-Developer;Computer+Science+Lover;CyberSec+Learner;Active+Learner/Researcher;Love+to+learn+new+stuff.<3"></a>
+# ─── H3XXY ───
+> **Software Development & Digital Forensics**
+> *Building clean, minimalist software architecture and researching open-source intelligence.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-Developer%20%20%20Sec%20Researcher-0d1117?style=flat-square&labelColor=21262d" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-OSINT%20%2F%20Backend-0d1117?style=flat-square&labelColor=21262d" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=h3xxyy&label=INDEXED_VIEWS&color=21262d&style=flat-square" alt="Views" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h3xxyy&label=Profile%20views&color=0e75b6&style=flat" alt="user3489084" /> </p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📂 CORE FOCUS & DISCIPLIINES
 
+*   **Backend Architecture** — Designing high-performance, structured data pipelines and custom toolsets.
+*   **Digital Investigation & OSINT** — Researching data breach analysis, identity verification methods, and open-source intelligence frameworks.
+*   **UI/UX Engineering** — Crafting dark, minimalist, and professional-grade user interfaces with an emphasis on scannability and clean layout logic.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+---
 
+### 🛠️ STACK & TOOLING
 
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `JavaScript (ES6+)` `HTML5` `CSS3` |
+| **Frameworks / UI** | `Tailwind CSS` `Node.js` |
+| **Environments** | `Linux` `Git` `Network Protocols` |
+
+---
+
+### 📊 ANALYTICS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h3xxyy&show_icons=true&theme=nord" alt="H3xxy's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=h3xxyy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h3xxyy&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideLabels=8b949e" width="48%" />
 </p>
 
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h3xxyy&theme=nord" alt="H3xxy's GitHub Stats">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=8b949e&size=16&center=true&vCenter=true&width=600&height=50&lines=System+initialized.+Ready+for+deployment...">
 </p>
