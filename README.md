@@ -23,6 +23,5 @@ Self-taught developer focusing on backend systems, automation tools, and clean u
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h3xxyy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_rank=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h3xxyy&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=8b949e" width="48%" />
 </p>
