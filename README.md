@@ -8,7 +8,7 @@ Self-taught developer focusing on backend systems, automation tools, and clean u
 
 *   **Languages:** Python, JavaScript (ES6+), HTML5, CSS3
 *   **Frameworks & UI:** Tailwind CSS, Node.js
-*   **Environments & Protocols:** Linux, Git, RCON, WebSockets
+*   **Environments & Protocols:** Linux, Git, WebSockets
 
 ---
 
