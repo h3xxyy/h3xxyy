@@ -1,27 +1,64 @@
-# H3xxy
+<div align="center">
 
-Self-taught developer focusing on backend systems, automation tools, and clean user interface architecture.
+<img src="https://files.catbox.moe/hck02b.png" width="100%" />
 
----
+<br><br>
 
-### Core Stack
+<span style="font-size: 2em; font-weight: 700;">H3x</span>
 
-*   **Languages:** Python, JavaScript (ES6+), HTML5, CSS3
-*   **Frameworks & UI:** Tailwind CSS, Node.js
-*   **Environments & Protocols:** Linux, Git, WebSockets
 
----
+<code>Fullstack Developer &amp; OSINT Analyst</code>
 
-### Philosophy
+<sub>building software · researching the web · making things</sub>
 
-*   **Performance First:** Writing optimized, asynchronous backend pipelines.
-*   **Minimalist Design:** Building dark, high-contrast, professional-grade user interfaces that prioritize scannability over flashy animations.
-*   **Data Integrity:** Structuring strict, reliable data handling and network communication logic.
+<p>✉️ hello[at]h3xxy.online &nbsp;·&nbsp; 🌐 <a href="https://h3xxy.online">h3xxy.online</a></p>
 
----
+<br><br>
 
-### GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7b2cff&height=2&section=header" width="70%" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h3xxyy&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=8b949e" width="48%" />
-</p>
+<br><br><br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,php,html,css,tailwind,linux,git,docker,electron,blender&theme=dark" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7b2cff&height=2&section=header" width="70%" />
+
+<br><br><br>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### ABOUT
+
+<br>
+
+I build software, explore new technologies,<br>
+and work on projects that interest me.
+
+<br><br>
+
+</td>
+
+<td align="center" width="50%">
+
+### INTERESTS
+
+<br>
+
+`Software` · `OSINT` · `Linux`<br>
+`Game Development` · `Music` · `Creative Tech`
+
+<br><br>
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+</div>
